@@ -1,5 +1,12 @@
 # 从Notion到wolai，这些中文细节优化真是让人心动
 
+```
+---
+layout: post
+title: Notion and Wolai
+---
+```
+
 [![奇客派](https://pic1.zhimg.com/v2-357c3a0c7ab62e429ec42ebf3fe7a23c_xs.jpg?source=172ae18b)](https://www.zhihu.com/people/shidongqi)
 
 [奇客派](https://www.zhihu.com/people/shidongqi)
@@ -30,8 +37,6 @@ Notion 的创始人是华人，但我相信他一定不常用中文。服务器�
 
 ![动图封面](https://pic3.zhimg.com/v2-6ad39baccc211a875899c00cd34a784e_b.jpg)
 
-
-
 在 wolai 中，有一定预设的样式，会自动在中英文内容插入间隔，无需手动输入空格以免影响输入流畅性。
 
 ![img](https://pic1.zhimg.com/80/v2-201a9f005b592d187b3532a01caee8b4_1440w.jpg)
@@ -41,8 +46,6 @@ Notion 的创始人是华人，但我相信他一定不常用中文。服务器�
 有一点需要说明，wolai 在中英文之间插入的间隔并非实际空格，只是样式上的限定。一旦将文字复制或者导出为本地文件，却是没有空格的。
 
 ![动图封面](https://pic1.zhimg.com/v2-6b5a44b12a81b60c85e1339235097a00_b.jpg)
-
-
 
 ![img](https://pic1.zhimg.com/80/v2-a11a801844389399330cf27093270484_1440w.jpg)
 
@@ -56,13 +59,9 @@ Notion 的创始人是华人，但我相信他一定不常用中文。服务器�
 
 ![动图封面](https://pic3.zhimg.com/v2-73833d800f07318b3cad6b218d3768e6_b.jpg)
 
-
-
 严格意义上来说，Notion 和 wolai 都不是标准的 markdown 编辑器，因为有更丰富的内容块形式，预设的一些快捷输入与 markdown 标准部分冲突。例如刚刚提到的引用样式，此前习惯的 markdown 标准是「>」+「空格」，而在 Notion 中会调出折叠列表样式，引用样式快捷输入是「"」+「空格」。
 
 ![动图封面](https://pic2.zhimg.com/v2-a58f1872fa6586c58ae77fc7be08433d_b.jpg)
-
-
 
 wolai 编辑器几乎完整保留了常用的 markdown 标准格式，因此在使用习惯上基本不需要作调整，甚至还同时支持全角符号的快捷输入，这一点稍后会再提到。
 
@@ -92,8 +91,6 @@ wolai 编辑器几乎完整保留了常用的 markdown 标准格式，因此在�
 
 ![动图封面](https://s2.loli.net/2022/06/08/VbogQxtLYuOwpSv.jpg)
 
-
-
 上面提到的问题在 wolai 中都做了优化，直接粘贴 markdown 图片格式或者粘贴 markdown 全部图文，图片都会自动加载，在 Notion 中只能通过导入 markdown 文件。
 
 ![img](https://s2.loli.net/2022/06/08/qm3OlX9IfnbxteE.jpg)
@@ -107,8 +104,6 @@ wolai 编辑器几乎完整保留了常用的 markdown 标准格式，因此在�
 wolai 的编辑体验最让我印象深刻的是对全角字符的兼容，这在其它编辑器中是非常少见的。无论是 Notion 的快捷输入还是 markdown 格式，一般都是需要在英文输入状态下支持，因此导致在中文输入中需要频繁切换输入法，但在 wolai 中则省事多了。
 
 ![动图封面](https://s2.loli.net/2022/06/08/8bFVK7IH9oiwmcU.jpg)
-
-
 
 ![img](https://s2.loli.net/2022/06/08/TG1w9xtVblcZWkf.jpg)
 
@@ -162,8 +157,6 @@ wolai 默认添加了悬浮目录的样式支持，在页面菜单中可以开�
 
 ![动图封面](https://s2.loli.net/2022/06/08/z2RNMLiHhQorJuG.jpg)
 
-
-
 wolai 的页面图标内容比 Notion 丰富不少，除了 Emoji 之外，还可以添加 Font Awesome 图标，并且支持八种自定义颜色，并且在正文中也是可以自由插入使用的。当然，如果没有合适的，你也可以手动上传图标或者使用外链。
 
 ![img](https://s2.loli.net/2022/06/08/LTklHPSYWUe9g4y.jpg)
@@ -199,8 +192,6 @@ wolai 的页面图标内容比 Notion 丰富不少，除了 Emoji 之外，还�
 分享
 
 喜欢收藏申请转载
-
-
 
 ### 文章被以下专栏收录
 
@@ -242,198 +233,192 @@ wolai 的页面图标内容比 Notion 丰富不少，除了 Emoji 之外，还�
 
 写下你的评论...
 
-
-
-
-
-
-
 发布
 
 - [![张小凡](https://s2.loli.net/2022/06/08/pOwXSFZa6e1P3Dl.jpg)](https://www.zhihu.com/people/zhang-xiao-fan-89)[张小凡](https://www.zhihu.com/people/zhang-xiao-fan-89)2021-02-26
-
+  
   像素级别。。。
-
+  
   14回复踩 举报
 
 - [![知乎用户](https://s2.loli.net/2022/06/08/8OcUT2wfWGtESLd.jpg)](https://www.zhihu.com/people/d0435e705f33535cc5191990a74896c2)[知乎用户](https://www.zhihu.com/people/d0435e705f33535cc5191990a74896c2)回复[张小凡](https://www.zhihu.com/people/zhang-xiao-fan-89)2021-03-16
-
+  
   嘘，小心被封
-
+  
   4回复踩 举报
 
 - [![知乎用户](https://s2.loli.net/2022/06/08/XfayC7eQRvnDlb4.jpg)](https://www.zhihu.com/people/bccc59900c94e73f93ca5b5217c96606)[知乎用户](https://www.zhihu.com/people/bccc59900c94e73f93ca5b5217c96606)回复[知乎用户](https://www.zhihu.com/people/d0435e705f33535cc5191990a74896c2)2021-04-29
-
+  
   哈哈哈哈哈哈哈
-
+  
   1回复踩 举报
 
 - [![一水米田](https://pica.zhimg.com/v2-03e64de5d05fe6bb014bc809b7549322_s.jpg?source=06d4cd63)](https://www.zhihu.com/people/st1220)[一水米田](https://www.zhihu.com/people/st1220)2021-02-17
-
+  
   Notion最大的优势是数据库支持呢
-
+  
   4回复踩 举报
 
 - [![Poulin](https://pica.zhimg.com/v2-abed1a8c04700ba7d72b45195223e0ff_s.jpg?source=06d4cd63)](https://www.zhihu.com/people/a-bao-91-69-60)[Poulin](https://www.zhihu.com/people/a-bao-91-69-60)回复[一水米田](https://www.zhihu.com/people/st1220)2021-03-07
-
+  
   语雀数据库也出了
-
+  
   赞回复踩 举报
 
 - [![YsJuliess](https://pic1.zhimg.com/v2-0946bf45c0e3f76d6fed540a6c668b24_s.jpg?source=06d4cd63)](https://www.zhihu.com/people/ysjuliess)[YsJuliess](https://www.zhihu.com/people/ysjuliess)回复[一水米田](https://www.zhihu.com/people/st1220)2021-11-19
-
+  
   wolai也出了
-
+  
   赞回复踩 举报
 
 - [![知乎用户](https://pic1.zhimg.com/da8e974dc_s.jpg?source=06d4cd63)](https://www.zhihu.com/people/50295cb53326501a9f600f4fa1efb24b)[知乎用户](https://www.zhihu.com/people/50295cb53326501a9f600f4fa1efb24b)2021-04-05
-
+  
   虽然Notion有时候要切换输入法使用快捷键有点麻烦，但是像素级ui和功能复刻真是让人不想用
-
+  
   3回复踩 举报
 
 - [![舆波](https://pic3.zhimg.com/v2-17cb768c010800f86fa7cb555814a27a_s.jpg?source=06d4cd63)](https://www.zhihu.com/people/idavidma)[舆波](https://www.zhihu.com/people/idavidma)回复[知乎用户](https://www.zhihu.com/people/50295cb53326501a9f600f4fa1efb24b)2021-05-26
-
+  
   我刚试了试我来，其实就是“、”也被设置成了开启快捷键的入口，而Notion只有“/”，但我相信Notion汉化之后也会有这个功能的。不过有个问题，就是这类笔记是否有随时导出全部笔记的功能，总是在云端很不放心啊。
-
+  
   赞回复踩 举报
 
 - [![LYC阿](https://pic1.zhimg.com/v2-6183b8b93570feaeda62eb68e29cae1c_s.jpg?source=06d4cd63)](https://www.zhihu.com/people/duo-lun-duo-hao-yi)[LYC阿](https://www.zhihu.com/people/duo-lun-duo-hao-yi)2021-01-25
-
+  
   notion国内链接太慢了 捏着鼻子转到wolai
-
+  
   3回复踩 举报
 
 - [![知乎用户](https://s2.loli.net/2022/06/08/8OcUT2wfWGtESLd.jpg)](https://www.zhihu.com/people/d0435e705f33535cc5191990a74896c2)[知乎用户](https://www.zhihu.com/people/d0435e705f33535cc5191990a74896c2)回复[LYC阿](https://www.zhihu.com/people/duo-lun-duo-hao-yi)2021-03-16
-
+  
   现在已经好转了。好用
-
+  
   2回复踩 举报
 
 - [![陈不知](https://pic1.zhimg.com/v2-abed1a8c04700ba7d72b45195223e0ff_s.jpg?source=06d4cd63)](https://www.zhihu.com/people/chen-bu-zhi-32)[陈不知](https://www.zhihu.com/people/chen-bu-zhi-32)2021-06-10
-
+  
   wolai 3000个块就必须付费，这个有点。。。
-
+  
   2回复踩 举报
 
 - [![INKRUE](https://pic3.zhimg.com/v2-678c3269573f16e95dcb38684631f722_s.jpg?source=06d4cd63)](https://www.zhihu.com/people/feihongink)[INKRUE](https://www.zhihu.com/people/feihongink)2021-03-26
-
+  
   walai和Notion相似度极高。现在Notion国内访问的速度上来了![[思考]](https://pic4.zhimg.com/v2-bffb2bf11422c5ef7d8949788114c2ab.png)
-
+  
   2回复踩 举报
 
 - [![dejavudwh](https://pic1.zhimg.com/v2-91f979d6d769fd88a907e72b0ee7e526_s.jpg?source=06d4cd63)](https://www.zhihu.com/people/shadow-61-66)[dejavudwh](https://www.zhihu.com/people/shadow-61-66)2021-02-24
-
+  
   直接反手推荐一波思源和ob
-
+  
   2回复踩 举报
 
 - [![YsJuliess](https://pic2.zhimg.com/v2-0946bf45c0e3f76d6fed540a6c668b24_s.jpg?source=06d4cd63)](https://www.zhihu.com/people/ysjuliess)[YsJuliess](https://www.zhihu.com/people/ysjuliess)回复[dejavudwh](https://www.zhihu.com/people/shadow-61-66)2021-11-19
-
+  
   这俩和wolai 和notion感觉已经不在一个起跑线上了，现在的notion和wolai相互借鉴，越来越好用……我真的要笑死了
-
+  
   2回复踩 举报
 
 - [![知乎用户](https://pica.zhimg.com/da8e974dc_s.jpg?source=06d4cd63)](https://www.zhihu.com/people/ef097fc9de1a263e6a88160223b3075b)[知乎用户](https://www.zhihu.com/people/ef097fc9de1a263e6a88160223b3075b)2021-04-26
-
+  
   没有database，已卸载
-
+  
   1回复踩 举报
 
 - [![丶傻蠢憨](https://pic2.zhimg.com/v2-fc7b4924ae0e28fef7c3a4d51227cd30_s.jpg?source=06d4cd63)](https://www.zhihu.com/people/zhu-sha-chun-han-75)[丶傻蠢憨](https://www.zhihu.com/people/zhu-sha-chun-han-75)03-10
-
+  
   shachunhan诚挚邀请您注册并体验 wolai：
   我来 wolai - 不仅仅是未来的云端协作平台与个人笔记
   MXM57S3
-
+  
   赞回复踩 举报
 
 - [![知乎用户EN7esY](https://pic1.zhimg.com/v2-abed1a8c04700ba7d72b45195223e0ff_s.jpg?source=06d4cd63)](https://www.zhihu.com/people/ting-jian-da-hai-de-sheng-yin-2018)[知乎用户EN7esY](https://www.zhihu.com/people/ting-jian-da-hai-de-sheng-yin-2018)2021-09-11
-
+  
   wolai不能调节字体的大小，我把代码传上去特别小，看着眼睛疼
-
+  
   赞回复踩 举报
 
 - [![LUCKYPIN](https://pic1.zhimg.com/v2-8a05ca5e97b3873b3bc52d08b100196a_s.jpg?source=06d4cd63)](https://www.zhihu.com/people/luckypin)[LUCKYPIN](https://www.zhihu.com/people/luckypin)2021-06-29
-
+  
   请问markdown本地的照片可以随着markdown文件导入而上传上去吗
-
+  
   赞回复踩 举报
 
 - [![知乎用户](https://s2.loli.net/2022/06/08/8OcUT2wfWGtESLd.jpg)](https://www.zhihu.com/people/d0435e705f33535cc5191990a74896c2)[知乎用户](https://www.zhihu.com/people/d0435e705f33535cc5191990a74896c2)2021-03-16
-
+  
   notion的速度上去了
-
+  
   赞回复踩 举报
 
 - [![知乎用户](https://pic1.zhimg.com/da8e974dc_s.jpg?source=06d4cd63)](https://www.zhihu.com/people/aca95887d28cde50e4c64e7b2fcb5dae)[知乎用户](https://www.zhihu.com/people/aca95887d28cde50e4c64e7b2fcb5dae)2021-02-19
-
+  
   请问，为什么datebase那么重要？
-
+  
   赞回复踩 举报
 
 - [![花开有时](https://pic1.zhimg.com/dddf19d2bb6b9a4be6c95681798eee3f_s.jpg?source=06d4cd63)](https://www.zhihu.com/people/wang-yu-bin-52)[花开有时](https://www.zhihu.com/people/wang-yu-bin-52)回复[知乎用户](https://www.zhihu.com/people/aca95887d28cde50e4c64e7b2fcb5dae)2021-02-28
-
+  
   可以用更多的方式组织处理数据
-
+  
   2回复踩 举报
 
 - [![丹丹](https://pic2.zhimg.com/v2-a8661adcc35497b2b6c66308a6c00684_s.jpg?source=06d4cd63)](https://www.zhihu.com/people/dan-dan-43-71-94)[丹丹](https://www.zhihu.com/people/dan-dan-43-71-94)2021-02-12
-
+  
   心动耶
-
+  
   赞回复踩 举报
 
 - [![知乎用户](https://pica.zhimg.com/da8e974dc_s.jpg?source=06d4cd63)](https://www.zhihu.com/people/c84bbd59313891e1b41564e600849e73)[知乎用户](https://www.zhihu.com/people/c84bbd59313891e1b41564e600849e73)2021-02-11
-
+  
   没liunx版本
-
+  
   赞回复踩 举报
 
 - [![TommyChanChan](https://pic2.zhimg.com/v2-7dafa05ed2a8443b60a568728bd74d1c_s.jpg?source=06d4cd63)](https://www.zhihu.com/people/ai-zhi-shi-de-xiao-hang-hang)[TommyChanChan](https://www.zhihu.com/people/ai-zhi-shi-de-xiao-hang-hang)回复[知乎用户](https://www.zhihu.com/people/c84bbd59313891e1b41564e600849e73)2021-09-05
-
+  
   有啊
-
+  
   赞回复踩 举报
 
 - [![知乎用户17G5a7](https://pic3.zhimg.com/v2-abed1a8c04700ba7d72b45195223e0ff_s.jpg?source=06d4cd63)](https://www.zhihu.com/people/christopher.lee)[知乎用户17G5a7](https://www.zhihu.com/people/christopher.lee)2021-02-04
-
+  
   全民人均一台vps走起
-
+  
   赞回复踩 举报
 
 - [![howie](https://pic2.zhimg.com/v2-47d5cbb39cb4a50ca6b3c6a3f750ec79_s.jpg?source=06d4cd63)](https://www.zhihu.com/people/zhao-hao-39-36)[howie](https://www.zhihu.com/people/zhao-hao-39-36)2021-02-03
-
+  
   notion在国内访问速度实在是太慢了
-
+  
   赞回复踩 举报
 
 - [![Carolyn](https://pic1.zhimg.com/0e7f691bd46d5bdf194b84d1597b0792_s.jpg?source=06d4cd63)](https://www.zhihu.com/people/jiao-jiao-wu-96)[Carolyn](https://www.zhihu.com/people/jiao-jiao-wu-96)2021-02-02
-
+  
   wolai手机可以用吗？
-
+  
   赞回复踩 举报
 
 - [![莓视界](https://pic3.zhimg.com/v2-9c2e89b61628c0659f2a0d6af1687cbd_s.jpg?source=06d4cd63)](https://www.zhihu.com/people/mei-shi-jie-27-56)[莓视界](https://www.zhihu.com/people/mei-shi-jie-27-56)回复[Carolyn](https://www.zhihu.com/people/jiao-jiao-wu-96)2021-02-24
-
+  
   好像目前没有移动版
-
+  
   赞回复踩 举报
 
 - [![知乎用户](https://s2.loli.net/2022/06/08/XfayC7eQRvnDlb4.jpg)](https://www.zhihu.com/people/4767924b1f1b8c6a70f9a5165e991c5e)[知乎用户](https://www.zhihu.com/people/4767924b1f1b8c6a70f9a5165e991c5e)回复[莓视界](https://www.zhihu.com/people/mei-shi-jie-27-56)2021-03-04
-
+  
   官网说在三月上旬
-
+  
   赞回复踩 举报
 
 - 展开其他 1 条回复
 
 - [![橙子璇](https://pic1.zhimg.com/v2-3b08c02a3f59325fc5e9e2cb96ef7c77_s.jpg?source=06d4cd63)](https://www.zhihu.com/people/cheng-zi-xuan-21-30)[橙子璇](https://www.zhihu.com/people/cheng-zi-xuan-21-30)2021-02-01
-
+  
   wolai在哪里下呀
-
+  
   赞回复踩 举报
 
 - [![康叔](https://pic1.zhimg.com/v2-7b27edb357b07c33f9c1c589c16d1cf7_s.jpg?source=06d4cd63)](https://www.zhihu.com/people/connor-martin)[康叔](https://www.zhihu.com/people/connor-martin)回复[橙子璇](https://www.zhihu.com/people/cheng-zi-xuan-21-30)2021-03-11
-
+  
   这种百度可以找到答案的问题......就别伸手了
